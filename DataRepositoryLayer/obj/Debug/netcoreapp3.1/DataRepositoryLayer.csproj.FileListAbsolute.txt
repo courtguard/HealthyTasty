@@ -7,3 +7,12 @@ C:\Users\anaki\Desktop\HealthyTasty\DataRepositoryLayer\bin\Debug\netcoreapp3.1\
 C:\Users\anaki\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.csproj.CoreCompileInputs.cache
 C:\Users\anaki\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.dll
 C:\Users\anaki\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.pdb
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\bin\Debug\netcoreapp3.1\DataRepositoryLayer.deps.json
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\bin\Debug\netcoreapp3.1\DataRepositoryLayer.dll
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\bin\Debug\netcoreapp3.1\DataRepositoryLayer.pdb
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.csprojAssemblyReference.cache
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.AssemblyInfo.cs
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.dll
+C:\Users\teo_m\Desktop\HealthyTasty\DataRepositoryLayer\obj\Debug\netcoreapp3.1\DataRepositoryLayer.pdb

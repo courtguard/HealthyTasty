@@ -1,0 +1,12 @@
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.deps.json
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\bin\Debug\netcoreapp3.1\BusinessLogicLayer.pdb
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataRepositoryLayer.dll
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\bin\Debug\netcoreapp3.1\DataRepositoryLayer.pdb
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.AssemblyInfo.cs
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.csproj.CopyComplete
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.dll
+C:\Users\anaki\Desktop\HealthyTasty\BusinessLogicLayer\obj\Debug\netcoreapp3.1\BusinessLogicLayer.pdb

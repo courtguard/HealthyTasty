@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace PresentationLayer.Migrations
 {
     [DbContext(typeof(HealthyTastyDbContext))]
-    [Migration("20200817085207_IdentityCreate")]
+    [Migration("20200817123815_IdentityCreate")]
     partial class IdentityCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

@@ -5,12 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Migrations\20200814135404_IdentityCreate.cs" />
-    <Compile Remove="Migrations\20200814135404_IdentityCreate.Designer.cs" />
-    <Compile Remove="Migrations\20200814135922_IdentityCreate.cs" />
-    <Compile Remove="Migrations\20200814135922_IdentityCreate.Designer.cs" />
-    <Compile Remove="Migrations\20200814141058_IdentityCreate.cs" />
-    <Compile Remove="Migrations\20200814141058_IdentityCreate.Designer.cs" />
+    <Compile Remove="Migrations\20200817123651_IdentityCreate.cs" />
+    <Compile Remove="Migrations\20200817123651_IdentityCreate.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

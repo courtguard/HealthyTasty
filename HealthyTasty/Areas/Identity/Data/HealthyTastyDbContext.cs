@@ -23,22 +23,22 @@ namespace HealthyTasty.Data
             // For example, you can rename the ASP.NET Identity table names and more.
             // Add your customizations after calling base.OnModelCreating(builder);
             builder.Entity<HealthyTastyUser>().ToTable("Users");
-            builder.Entity<HealthyTastyUser>().Ignore(c => c.AccessFailedCount)
-                                          .Ignore(c => c.ConcurrencyStamp)
-                                          .Ignore(c => c.LockoutEnd)
-                                          .Ignore(c => c.PhoneNumber)
-                                          .Ignore(c => c.LockoutEnabled)
-                                          .Ignore(c => c.NormalizedEmail)
-                                          .Ignore(c => c.NormalizedUserName)
-                                          .Ignore(c => c.PhoneNumberConfirmed)
-                                          .Ignore(c => c.SecurityStamp)
-                                          .Ignore(c => c.TwoFactorEnabled)
-                                          .Ignore(c => c.UserName);
+            //builder.Entity<HealthyTastyUser>().Ignore(c => c.AccessFailedCount)
+            //                              .Ignore(c => c.ConcurrencyStamp)
+            //                              .Ignore(c => c.LockoutEnd)
+            //                              .Ignore(c => c.PhoneNumber)
+            //                              .Ignore(c => c.LockoutEnabled)
+            //                              .Ignore(c => c.NormalizedEmail)
+            //                              .Ignore(c => c.NormalizedUserName)
+            //                              .Ignore(c => c.PhoneNumberConfirmed)
+            //                              .Ignore(c => c.SecurityStamp)
+            //                              .Ignore(c => c.TwoFactorEnabled)
+            //                              .Ignore(c => c.UserName);
 
 
-            builder.Entity<IdentityRole>().ToTable("Roles")
-                                          .Ignore(c => c.ConcurrencyStamp)
-                                          .Ignore(c => c.NormalizedName);
+            builder.Entity<IdentityRole>().ToTable("Roles");
+                                          //.Ignore(c => c.ConcurrencyStamp)
+                                          //.Ignore(c => c.NormalizedName);
             builder.Entity<IdentityUserRole<string>>().ToTable("UserRoles");
             builder.Ignore<IdentityUserToken<string>>();
             builder.Ignore<IdentityUserLogin<string>>();
